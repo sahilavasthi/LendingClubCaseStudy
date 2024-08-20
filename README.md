@@ -26,7 +26,7 @@ from the provided past loans comma seperated file as much as possible:
   - Assess any changes in borrowers' creditworthiness
   - The Cs of credit - capacity, capital, conditions, and character  
 
-The dataset is provided by the LendingClub financial technology company that contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+The dataset is provided by the LendingClub financial technology company that contains the complete loan data for all loans issued through the time period 2007 to 2011.
 
 ## Conclusions
 - DTI impacts the repayment of the loans
