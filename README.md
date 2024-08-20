@@ -1,5 +1,5 @@
 # LendingClubCaseStudy
-> Outline a brief description of your project.
+In this case study we’ll be analyzing past loan applicants of a company which is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures for approving loan applications. Borrowers, can easily access lower interest rate loans through a fast online interface exposed by the company. Therefore, we can assume that large number of transactions takes place in the company w.r.t the loans applications.
 
 
 ## Table of Contents
