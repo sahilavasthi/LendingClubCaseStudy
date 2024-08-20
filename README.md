@@ -43,7 +43,7 @@ The dataset is provided by the LendingClub financial technology company that con
 - plotly - version 5.23.0
 - numpy - version 1.23.5
 
-## Acknowledgements
+## Refrences
 - Pandas, Matplotlib, Plotly, Numpy offical documentation & Stackoverflow
 - This project was based on Lending Club Website: https://www.lendingclub.com/
 
