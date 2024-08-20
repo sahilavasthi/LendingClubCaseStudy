@@ -17,7 +17,7 @@ Here’s a brief overview of what they do:
 - Medical Financing: They offer loans specifically for medical expenses, helping patients manage costs for procedures or treatments
 - Investor Opportunities: On the flip side, investors can invest in fractional shares of loans, allowing them to diversify their investments and potentially earn returns based on the interest payments from the borrowers
   
-## Business Problem Statement:
+## Business Problem Statement
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss) to a bank/lender therefore we need to perform analysis w.r.t below mentioned points and provide action plans & recommendations to minimize the risk of the potential defaulters from the provided past loans comma seperated file as much as possible:
 
 - How many risky loan applicants?
