@@ -6,7 +6,7 @@ In this case study we’ll be analyzing past loan applicants of a company which 
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Refrences](#Refrences)
 
 ## General Information
 LendingClub is a financial technology company that operates a peer-to-peer (P2P) lending platform. Founded in 2006, it initially allowed individuals to lend money directly to other individuals seeking personal loans, bypassing traditional financial institutions. Over time, LendingClub expanded its offerings and services.
