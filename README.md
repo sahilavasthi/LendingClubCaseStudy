@@ -11,11 +11,11 @@ In this case study we’ll be analyzing past loan applicants of a company which 
 ## General Information
 LendingClub is a financial technology company that operates a peer-to-peer (P2P) lending platform. Founded in 2006, it initially allowed individuals to lend money directly to other individuals seeking personal loans, bypassing traditional financial institutions. Over time, LendingClub expanded its offerings and services.
 Here’s a brief overview of what they do:
-Personal Loans: LendingClub connects borrowers with investors willing to fund their personal loans. Borrowers can use these loans for various purposes like consolidating debt, making large purchases, or covering unexpected expenses
-Business Loans: They also offer loans to small businesses. These loans help businesses with capital needs such as expansion, equipment purchases, or working capital
-Auto Refinancing: LendingClub provides refinancing options for auto loans, allowing borrowers to potentially lower their interest rates and reduce monthly payments
-Medical Financing: They offer loans specifically for medical expenses, helping patients manage costs for procedures or treatments
-Investor Opportunities: On the flip side, investors can invest in fractional shares of loans, allowing them to diversify their investments and potentially earn returns based on the interest payments from the borrowers
+- Personal Loans: LendingClub connects borrowers with investors willing to fund their personal loans. Borrowers can use these loans for various purposes like consolidating debt, making large purchases, or covering unexpected expenses
+- Business Loans: They also offer loans to small businesses. These loans help businesses with capital needs such as expansion, equipment purchases, or working capital
+- Auto Refinancing: LendingClub provides refinancing options for auto loans, allowing borrowers to potentially lower their interest rates and reduce monthly payments
+- Medical Financing: They offer loans specifically for medical expenses, helping patients manage costs for procedures or treatments
+- Investor Opportunities: On the flip side, investors can invest in fractional shares of loans, allowing them to diversify their investments and potentially earn returns based on the interest payments from the borrowers
   
 ## Business Problem Statement:
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss) to a bank/lender therefore we need to perform analysis w.r.t below mentioned points and provide action plans & recommendations to minimize the risk of the potential defaulters from the provided past loans comma seperated file as much as possible:
